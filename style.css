@@ -21,6 +21,7 @@ html {
 }
 
 body {
+  background-color: #fff;
   font-family: "Raleway", sans-serif;
   font-size: 1.1rem;
   display: -ms-grid;
